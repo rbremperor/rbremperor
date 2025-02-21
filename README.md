@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Raxmatillo  
 ### 🚀 Aspiring Software Engineer | Python Backend Developer  
 
 🎓 **IT Student | 2nd Year**  
@@ -8,8 +8,8 @@
 ---
 
 ### 🔗 Connect with Me  
-- 💼 [LinkedIn](your-linkedin-url)  
-- 📬 Email: your-email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahmatillo-burhonov-b41994294/)  
+- 📬 Email: rakhmatilloburkhonov@gmail.com  
 
 ---
 
