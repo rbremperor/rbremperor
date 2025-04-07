@@ -15,7 +15,7 @@
 
 ### 🔥 Skills & Technologies  
 🚀 **Languages:** Python, JavaScript (Basics)  
-🛠 **Backend Development:** FastAPI, Flask, SQL, REST APIs  
+🛠 **Backend Development:** FastAPI, Django, Django Rest Framework, SQL, REST APIs  
 🗄️ **Databases:** MySQL, PostgreSQL  
 
 ---
